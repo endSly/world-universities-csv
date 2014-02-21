@@ -1,0 +1,15 @@
+{
+  "name": "univcc-scrapper",
+  "version": "0.0.1",
+  "author": "Endika Gutiérrez <me@endika.net>",
+  "description": "univ.cc scrapper",
+  "dependencies" : {
+    "jsdom"   : "0.10.1",
+    "async"   : "*",
+    "csv"     : "*"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
