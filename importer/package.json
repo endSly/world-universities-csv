@@ -6,7 +6,8 @@
   "dependencies" : {
     "jsdom"   : "0.10.1",
     "async"   : "*",
-    "csv"     : "*"
+    "csv"     : "*",
+    "country-data" : "*"
   },
   "license": "MIT",
   "engines": {
