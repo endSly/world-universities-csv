@@ -17,6 +17,7 @@ AE,Gulf Medical University,http://www.gmu.ac.ae/
 AE,Hamdan Bin Mohammed e-University,http://www.hbmeu.ac.ae/
 AE,Higher Colleges of Technology,http://www.hct.ac.ae/
 AE,Ittihad University,http://www.ittihad.ac.ae/
+AE,Jumeira University,http://www.ju.ac.ae/
 AE,Khalifa University,http://www.kustar.ac.ae/
 AE,"Khalifa University of Science, Technology and Research",http://www.ku.ac.ae/
 AE,Masdar University Of Science And Technology,http://www.masdar.ac.ae/
@@ -350,6 +351,7 @@ BD,Metropolitan University,http://www.metrouni.edu.bd/
 BD,Military Institute of Science and Technology,http://www.mist.ac.bd/
 BD,National University,http://www.nu.edu.bd/
 BD,Noakhali University of Science and Technology,http://www.nstu.edu.bd/
+BD,North East University Bangladesh,http://www.neub.edu.bd/
 BD,Northern University Bangladesh,http://www.nub.ac.bd/
 BD,North South University,http://www.northsouth.edu/
 BD,Pabna University of Science and Technology,http://www.pust.ac.bd/
@@ -669,7 +671,13 @@ BR,Universidade Vale do Rio dos Sinos,http://www.unisinos.br/
 BR,Universidade Veiga de Almeida,http://www.uva.br/
 BS,The College of The Bahamas,http://www.cob.edu.bs/
 BT,Royal University of Bhutan,http://www.rub.edu.bt/
+BW,ABM University College,http://www.abm.ac.bw/
+BW,Botho University,http://www.bothocollege.ac.bw/
+BW,Botswana Accountancy College,http://www.bac.ac.bw/
 BW,Botswana College of Agriculture,http://www.bca.bw/
+BW,Botswana International University of Science &amp; Technology,http://www.biust.ac.bw/
+BW,Gaborone Universal College of Law,http://www.guc.co.bw/
+BW,"New Era College of Arts, Science &amp; Technology",http://www.neweracollege.ac.bw/
 BW,University of Botswana,http://www.ub.bw/
 BY,Academy of Public Administration of Belarus,http://www.pac.by/
 BY,Academy of the Ministry of Internal Affairs of the Republic of Belarus,http://academy.mia.by/
@@ -2883,6 +2891,7 @@ IN,Bangalore University,http://bengaluruuniversity.com/
 IN,Barkatullah University,http://www.bubhopal.nic.in/
 IN,Bengal Engineering College,http://www.becs.ac.in/
 IN,Berhampur University,http://www.bamu.nic.in/
+IN,Bhagwant University,http://www.bhagwantuniversity.com/
 IN,Bharathiar University,http://www.bharathi.ernet.in/
 IN,Bharathidasan University,http://www.bdu.ernet.in/
 IN,Bharath Institue Of Higher Education &amp; Research,http://www.bharathuniv.com/
@@ -3032,7 +3041,7 @@ IN,"Mahatma Gandhi University, Kerala",http://www.mgu.ac.in/
 IN,Mahatma Jyotiba Phule Rohilkhand University Bareilly ,http://www.mjpru.ac.in/
 IN,Mahatma Phule Agricultural University,http://mpkv.mah.nic.in/
 IN,Makanlal Chutur Vedi University,http://www.mcu.ac.in/
-IN,Makhanlal Chaturvedi National University Institute of Journalism,http://www.mcu.ac.in/
+IN,Makhanlal Chaturvedi National University of Journalism and Communication,http://www.mcu.ac.in/
 IN,Mangalore University,http://www.mangaloreuniversity.ac.in/
 IN,Manipal University,http://www.manipal.edu/
 IN,Manipur University,http://www.manipur.nic.in/maniuniversity.htm
@@ -3072,6 +3081,7 @@ IN,Pandit Ravi Shankar Shukla University,http://www.rsuniversity.com/
 IN,Panjab University,http://www.puchd.ac.in/
 IN,Patna University,http://puonline.bih.nic.in/
 IN,Periyar University,http://www.spuniv.org/
+IN,Pes University,http://www.pes.edu/
 IN,Pondicherry University,http://www.pondiuni.org/
 IN,Postgraduate lnstitute of Medical Education and Research,http://www.pgimer.nic.in/
 IN,Potti Sreeramulu Telugu University,http://www.teluguuniversity.ac.in/
@@ -3257,6 +3267,7 @@ IR,Bushehr University of Medical Sciences,http://www.bpums.ac.ir/
 IR,Damghan University of Basic Sciences,http://www.dubs.ac.ir/
 IR,Daneshestan Institute of Higher Education,http://www.sdi.ac.ir/
 IR,Delijan Payame Noor University,http://www.delijanpnu.ac.ir/
+IR,Deylaman Institute of Higher Education,http://www.deylaman.ac.ir/
 IR,Fasa Faculty of Medical Sciences,http://www.fums.ac.ir/
 IR,Ferdowsi University of Mashhad,http://www.um.ac.ir/
 IR,Golestan University of Medical Sciences,http://www.goums.ac.ir/
@@ -5085,6 +5096,7 @@ NL,Hogeschool Rotterdam,http://www.hro.nl/
 NL,Hogeschool Utrecht,http://www.hu.nl/
 NL,Hogeschool van Amsterdam,http://www.hva.nl/
 NL,Hogeschool voor de Kunsten Utrecht (HKU),http://www.hku.nl/
+NL,Hotelschool The Hague,http://www.hotelschool.nl/
 NL,Institute of Social Studies,http://www.iss.nl/
 NL,International Institute for Geo - Information Science and Earth Observation,http://www.itc.nl/
 NL,Islamic University of Rotterdam,http://www.islamicuniversity.nl/
@@ -5983,7 +5995,7 @@ RU,Omsk State Transport University,http://www.omgups.ru/
 RU,Omsk State University,http://www.univer.omsk.su/
 RU,Orenburg State University,http://www.osu.ru/
 RU,Oriental University,http://www.orun.ru/
-RU,Penza State Technical University,http://www.stup.ac.ru/
+RU,Penza State University,http://www.pnzgu.ru/
 RU,People' s Friendship University of Russia,http://www.pfu.edu.ru/
 RU,Perm State Academy of Agriculture,http://www.pstu.ac.ru/
 RU,Perm State Medical Academy,http://www.psma.ru/
@@ -6394,7 +6406,6 @@ SY,University of Kalamoon,http://www.uok.edu.sy/
 SY,Wadi International University,http://www.wiu.edu.sy/
 SY,Yarmouk Private University ,http://www.ypu.edu.sy/
 SZ,University of Swaziland,http://www.uniswa.sz/
-TC,Burkes University,http://www.burkes-university.org.uk/
 TD,Université de N'Djamena,http://www.univ-ndjamena.org/
 TG,Université de Lomé,http://www.univ-lome.tg/
 TH,Asian Institute of Technology,http://www.ait.ac.th/
@@ -6974,6 +6985,7 @@ US,Bowling Green State University,http://www.bgsu.edu/
 US,"Bowling Green State University, Firelands",http://www.firelands.bgsu.edu/
 US,Bradley University,http://www.bradley.edu/
 US,Brandeis University,http://www.brandeis.edu/
+US,Brandman University,http://www.brandman.edu/
 US,Brenau University,http://www.brenau.edu/
 US,Brescia University,http://www.brescia.edu/
 US,Brevard College,http://www.brevard.edu/
@@ -8415,8 +8427,8 @@ US,Trinity College of Florida,http://www.trinitycollege.edu/
 US,Trinity College of Vermont,http://www.trinityvt.edu/
 US,Trinity International University,http://www.trin.edu/
 US,"Trinity International University (Excel), Miami",http://www.tiu.edu/excel/index.html
-US,Trinity University,http://www.trinitydc.edu/
 US,Trinity University,http://www.trinity.edu/
+US,Trinity University,http://www.trinitydc.edu/
 US,Tri-State University,http://www.tristate.edu/
 US,Triton College,http://www.triton.cc.il.us/
 US,Troy University,http://www.troy.edu/
@@ -9008,8 +9020,17 @@ ZM,University of Lusaka,http://www.unilus.ac.zm/
 ZM,University of Zambia,http://www.unza.zm/
 ZM,Zambian Open University,http://www.zaou.ac.zm/
 ZW,Africa University,http://www.africau.edu/
+ZW,Bindura University of Science Education,http://www.buse.ac.zw/
+ZW,Catholic University in Zimbabwe,http://www.cuz.ac.zw/
 ZW,Chinhoyi University of Technology,http://www.cut.ac.zw/
+ZW,Great Zimbabwe University,http://www.gzu.ac.zw/
+ZW,Harare Institute of Technology,http://www.hit.ac.zw/
+ZW,Lupane State University,http://www.lsu.ac.zw/
 ZW,Midlands State University,http://www.msu.ac.zw/
 ZW,National University of Science and Technology Bulawayo,http://www.nust.ac.zw/
+ZW,Reformed Church University,http://www.rcu.ac.zw/
 ZW,Solusi University,http://www.solusi.ac.zw/
 ZW,University of Zimbabwe,http://www.uz.ac.zw/
+ZW,Women's University in Africa,http://www.wua.ac.zw/
+ZW,Zimbabwe Ezekiel Guti University,http://www.zegu.ac.zw/
+ZW,Zimbabwe Open University,http://www.zou.ac.zw/
