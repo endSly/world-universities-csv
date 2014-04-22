@@ -1181,6 +1181,7 @@ CN,Liaocheng Teachers University,http://www.lctu.edu.cn/
 CN,Liaoning Normal University,http://www.lnnu.edu.cn/
 CN,Liaoning Technical University,http://www.lntu.edu.cn/
 CN,Liaoning University,http://www.lnu.edu.cn/
+CN,Logistics Engineering University of PLA,http://www.hqgc.net/
 CN,Ludong University,http://www.ytnc.edu.cn/
 CN,Luxun Academy of Fine Art,http://www.lumei.edu.cn/
 CN,Luzhou Medical College,http://www.lzmc.edu.cn/
@@ -1202,6 +1203,7 @@ CN,Nankai University,http://nku.nankai.edu.cn/
 CN,National University of Defense Technology,http://www.nudt.edu.cn/
 CN,Neijiang Teacher University,http://www.neijtc.edu.cn/
 CN,Ningbo University,http://www.nbu.edu.cn/
+CN,Ningbo University of Technology,http://www.nbut.edu.cn/
 CN,Ningxia Medical College,http://www.nxmc.edu.cn/
 CN,Ningxia University,http://www.nxu.edu.cn/
 CN,North China Electric Power University,http://www.ncepubj.edu.cn/
@@ -2500,8 +2502,12 @@ GH,"University of Education, Winneba",http://www.uew.edu.gh/
 GH,University of Ghana,http://www.ug.edu.gh/
 GH,Valley View University,http://www.vvu.edu.gh/
 GL,University of Greenland,http://www.ilisimatusarfik.gl/
+GM,American International University West Africa,http://www.aiu.edu.gm/
 GM,University of the Gambia,http://www.unigambia.gm/
+GN,Université Gamal Abdel Nasser de Conakry,http://www.uganc.org/
+GN,Université Julius Nyerere Kankan,http://www.ujnk.org/
 GN,Université Kofi Annan,http://www.univ-kag.org/
+GN,Université Thierno Amadou Diallo,http://www.utad-petel-edu.org/
 GP,Université des Antilles et de la Guyane,http://www.univ-ag.fr/
 GQ,Universidad Nacional de Guinea Ecuatorial,http://www.unge.gq/
 GR,Aegean University,http://www.aegean.gr/
@@ -5282,7 +5288,6 @@ PH,Central Luzon State University,http://www2.mozcom.com/~clsu/
 PH,Central Mindanao University,http://www.cmu.edu.ph/
 PH,Central Philippine University,http://www.cpuic.edu/
 PH,Centro Escolar University,http://www.ceu.edu.ph/
-PH,Charisma University,http://www.charismauniversity.org/
 PH,Colegio de San Juan de Letran,http://www.letran.edu/
 PH,College of the Holy Spirit,http://www.holyspirit.edu.ph/
 PH,Davao Doctors College,http://www.davaodoctors.edu.ph/
@@ -5300,6 +5305,7 @@ PH,Isabela State University,http://www.isu.edu.ph/
 PH,Leyte Normal University,http://lnu.evis.net.ph/
 PH,Leyte State University ,http://www.lsu-visca.edu.ph/
 PH,Liceo de Cagayan University,http://www.ldcu.edu.ph/
+PH,Lyceum of the Philippines University,http://www.lpu.edu.ph/
 PH,Manila Central University,http://www.mcu.edu.ph/
 PH,Manuel L. Quezon University,http://www.mlqu.edu.ph/
 PH,Manuel S. Enverga University Foundation,http://www.mseuf.edu.ph/
@@ -6343,8 +6349,15 @@ SL,LICCSAL Business College,http://www.liccsalsl.org/
 SL,Njala University,http://www.nu-online.com/
 SL,University of Sierra Leone,http://www.tusol.org/
 SM,University of San Marino,http://www.unirsm.sm/
+SN,L'Université de l'Entreprise,http://www.afi-ue.sn/
+SN,Université Alioune Diop de Bambey,http://www.bambey.univ.sn/
+SN,Universite Amadou Hampaté Ba,http://www.uahb.sn/
 SN,Université Cheikh Anta Diop,http://www.ucad.sn/
 SN,Université Dakar Bourguiba,http://www.udb.sn/
+SN,Université de Thiès,http://www.univ-thies.sn/
+SN,Université de Ziguinchor,http://www.univ-zig.sn/
+SN,Université du Sahel,http://www.unis.sn/
+SN,Université Euro-Afrique,http://www.uea.edu.sn/
 SN,Université Gaston Berger Saint-Louis,http://www.ugb.sn/
 SO,Amoud University,http://www.amouduniversity.org/
 SO,Benadir University,http://www.benadiruniversity.net/
@@ -6406,6 +6419,7 @@ SY,University of Kalamoon,http://www.uok.edu.sy/
 SY,Wadi International University,http://www.wiu.edu.sy/
 SY,Yarmouk Private University ,http://www.ypu.edu.sy/
 SZ,University of Swaziland,http://www.uniswa.sz/
+TC,Charisma University,http://www.charismauniversity.org/
 TD,Université de N'Djamena,http://www.univ-ndjamena.org/
 TG,Université de Lomé,http://www.univ-lome.tg/
 TH,Asian Institute of Technology,http://www.ait.ac.th/
