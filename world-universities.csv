@@ -2051,7 +2051,6 @@ EG,Université Française d'Égypte,http://www.ufe.edu.eg/
 EG,Université Senghor d'Alexandrie,http://www.usenghor-francophonie.org/
 EG,Zagazig University,http://www.zu.edu.eg/
 ER,Eritrea Institute of Technology,http://www.eit.edu.er/
-ER,University of Asmara,http://www.uoa.edu.er/
 ES,Barcelona Graduate School of Economics,http://www.barcelonagse.eu/
 ES,Bircham International University,http://www.bircham.edu/
 ES,Centro Universitario Villanueva,http://www.villanueva.edu/
@@ -2984,8 +2983,8 @@ IN,"Indian Institute of Technology, Hyderabad",http://www.iith.ac.in/
 IN,"Indian Institute of Technology, Kanpur",http://www.iitk.ac.in/
 IN,"Indian Institute of Technology, Kharagpur",http://www.iitkgp.ernet.in/
 IN,"Indian Institute of Technology, Madras",http://www.iitm.ac.in/
-IN,"Indian Institute of Technology, Roorkee",http://www.iitr.ernet.in/
 IN,"Indian Institute of Technology, Roorkee",http://www.iitr.ac.in/
+IN,"Indian Institute of Technology, Roorkee",http://www.iitr.ernet.in/
 IN,Indian Law Institue,http://www.ilidelhi.org/
 IN,Indian School of Business Management and Administration,http://isbm.org.in/
 IN,Indian School of Mines (ISM),http://www.ismdhanbad.ac.in/
@@ -3170,7 +3169,7 @@ IN,University of Health Sciences Andhra Pradesh,http://59.163.116.210/
 IN,University of Hyderabad,http://www.uohyd.ernet.in/
 IN,University of Jammu,http://www.jammuvarsity.org/
 IN,University of Kalyani,http://www.klyuniv.ac.in/
-IN,University of Kashmir,http://www.kashmiruniversity.net/
+IN,University of Kashmir,http://kashmiruniversity.net/
 IN,University of Kerala,http://www.keralauniversity.edu/
 IN,University of Lucknow,http://www.lucknowuniv.org/
 IN,University of Madras,http://www.unom.ac.in/
@@ -6378,6 +6377,7 @@ SO,University of Hargeisa,http://www.hargeisauniversity.net/
 SO,University of Somalia,http://www.universityofsomalia.net/
 SR,Anton de Kom University,http://www.uvs.edu/
 SS,University of Juba,http://www.juba.edu.sd/
+SS,University of Northern Bahr El-Ghazal,http://www.unbeg.edu.sd/
 SV,Universidad Albert Einstein,http://www.uae.edu.sv/
 SV,Universidad Autónoma de Santa Ana,http://www.unasa.edu.sv/
 SV,Universidad Capitain General Gerardo Barrios,http://www.ugb.edu.sv/
