@@ -34,15 +34,46 @@ AE,University of Jazeera,http://www.uojazeera.com/
 AE,University of Sharjah,http://www.sharjah.ac.ae/
 AE,University of Wollongong - Dubai Campus,http://www.uowdubai.ac.ae/
 AE,Zayed University,http://www.zu.ac.ae/
+AF,Afghan University,http://www.afghanuniversity.edu.af/
+AF,Al-Birony University,http://www.au.edu.af/
 AF,American University of Afghanistan,http://www.auaf.edu.af/
+AF,Aria Institute of Higher Education,http://www.aria.edu.af/
+AF,Badakhshan University,http://www.badakhshan.edu.af/
+AF,Baghlan University,http://www.baghlan.edu.af/
 AF,Bakhtar University,http://www.bakhtar.edu.af/
-AF,Herat University,http://www.heratuniversity.org/
+AF,Balkh University,http://www.ba.edu.af/
+AF,Bamiyan University,http://www.bu.edu.af/
+AF,Bost University,http://www.bost.edu.af/
+AF,Dawat University,http://www.dawat.edu.af/
+AF,Dunya Institute of Higher Education,http://www.dunya.edu.af/
+AF,Faryab Higher Education Institute,http://www.faryab.edu.af/
+AF,Ghazni University,http://www.gu.edu.af/
+AF,Herat University,http://www.hu.edu.af/
+AF,Ibn Sina University,http://www.ibnesina.edu.af/
+AF,Jawzjan University,http://www.ju.edu.af/
+AF,Kaboora Institute of Higher Education,http://www.kaboora.edu.af/
+AF,Kabul Education University,http://www.keu.edu.af/
+AF,Kabul Health Sciences Institute,http://www.kabuli.edu.af/
 AF,Kabul Medical University,http://www.kmu.edu.af/
 AF,Kabul University,http://www.ku.edu.af/
+AF,Kandahar University,http://www.kan.edu.af/
 AF,Kardan University,http://www.kardan.edu.af/
+AF,Karwan Institute of Higher Education,http://www.karwan.edu.af/
+AF,Kateb Institute of Higher Education,http://www.kateb.edu.af/
+AF,Khana-e-Noor Institute of Higher Education,http://www.ken.edu.af/
 AF,Khurasan University,http://www.kumsa.net/
-AF,Nangarhar University,http://www.nangarharuniversity.org/
+AF,Maryam Institute of Higher Education,http://www.maryam.edu.af/
+AF,Nangarhar University,http://www.nu.edu.af/
+AF,National Military Academy of Afghanistan,http://www.nmaa.edu.af/
+AF,Paktia University,http://www.pu.edu.af/
+AF,Pamir University,http://www.pamir.edu.af/
+AF,Parwan University,http://www.parwan.edu.af/
 AF,Polytechnical University of Kabul,http://www.polytechnic-kabul.org/
+AF,Rana Institute of Higher Education,http://www.rihs.edu.af/
+AF,Sadat Institute of Higher Education,http://www.sadat.edu.af/
+AF,Salam University,http://www.salam.edu.af/
+AF,Shaikh Zayed University,http://www.szu.edu.af/
+AF,Takhar University,http://www.tu.edu.af/
 AG,American University of Antigua,http://www.auamed.org/
 AG,University of Health Sciences Antigua,http://www.uhsa.ag/
 AL,Academy of Arts,http://www.akademiaearteve.edu.al/
@@ -357,6 +388,7 @@ BD,North South University,http://www.northsouth.edu/
 BD,Pabna University of Science and Technology,http://www.pust.ac.bd/
 BD,Patuakhali Science and Technology University,http://www.pstu.ac.bd/
 BD,People's University of Bangladesh,http://www.pub.ac.bd/
+BD,Premier University,http://www.puc.ac.bd/
 BD,Presidency University,http://www.presidency.edu.bd/
 BD,Queens University,http://www.queensuniversity.edu.bd/
 BD,Rajshahi University of Engineering and Technology,http://www.ruet.ac.bd/
@@ -1462,6 +1494,7 @@ CO,Universidad de Medellín,http://www.udem.edu.co/
 CO,Universidad de Nariño,http://www.udenar.edu.co/
 CO,Universidad de Pamplona,http://www.unipamplona.edu.co/
 CO,Universidad de San Buenaventura,http://www.usb.edu.co/
+CO,Universidad de San Buenaventura Medellin,http://www.usbmed.edu.co/
 CO,Universidad de Sucre,http://www.unisucre.edu.co/
 CO,"Universidad Distral ""Francisco José de Caldas""",http://www.udistrital.edu.co/
 CO,Universidad EAFIT,http://www.eafit.edu.co/
@@ -2571,6 +2604,7 @@ GT,Universidad Panamericana,http://www.upana.edu.gt/
 GT,Universidad Rafael Landívar,http://www.url.edu.gt/
 GT,Universidad Rural de Guatemala,http://www.urural.edu.gt/
 GU,University of Guam,http://www.uog.edu/
+GY,Gemsville Technical University,http://www.gemsvilleuniversity.com/
 GY,Greenheart Medical School,http://www.greenheartmed.org/
 GY,Texila American University,http://www.tauedu.org/
 GY,University of Guyana,http://www.uog.edu.gy/
@@ -2667,6 +2701,7 @@ ID,Prasetiya Mulya Business School,http://www.pmbs.ac.id/
 ID,Sekolah Tinggi Akuntansi Negara (STAN),http://www.stan.ac.id/
 ID,Stie Perbanas Surabaya,http://www.perbanas.ac.id/
 ID,STMIK AMIKOM Yogyakarta,http://www.amikom.ac.id/
+ID,STMIK Sinar Nusantara,http://www.sinus.ac.id/
 ID,Swiss German University,http://www.sgu.ac.id/
 ID,Trisakti Institute of Tourism ,http://www.stptrisakti.ac.id/
 ID,Unitomo Surabaya,http://www.unitomo.ac.id/
@@ -2983,8 +3018,8 @@ IN,"Indian Institute of Technology, Hyderabad",http://www.iith.ac.in/
 IN,"Indian Institute of Technology, Kanpur",http://www.iitk.ac.in/
 IN,"Indian Institute of Technology, Kharagpur",http://www.iitkgp.ernet.in/
 IN,"Indian Institute of Technology, Madras",http://www.iitm.ac.in/
-IN,"Indian Institute of Technology, Roorkee",http://www.iitr.ac.in/
 IN,"Indian Institute of Technology, Roorkee",http://www.iitr.ernet.in/
+IN,"Indian Institute of Technology, Roorkee",http://www.iitr.ac.in/
 IN,Indian Law Institue,http://www.ilidelhi.org/
 IN,Indian School of Business Management and Administration,http://isbm.org.in/
 IN,Indian School of Mines (ISM),http://www.ismdhanbad.ac.in/
@@ -3019,8 +3054,9 @@ IN,Kameshwar Singh Darbhanga Sanskrit University,http://www.ksdsu.edu.in/
 IN,Kannada University,http://www.kannadauniversity.org/
 IN,Kannur University,http://www.kannuruniversity.ac.in/
 IN,Kanpur University,http://www.kanpuruniversity.org/
+IN,Karnataka State Law University,http://www.kslu.ac.in/
 IN,Karnataka State Open University,http://www.karnatakastateopenuniversity.in/
-IN,Karnatak University,http://www.kud.ernet.in/
+IN,Karnatak University,http://www.kud.ac.in/
 IN,Karpagam University,http://www.karpagamuniv.com/
 IN,Karunya Institute Of Technology ( Deemed University),http://www.karunya.edu/
 IN,Kerala Agricultural University,http://www.kau.edu/
@@ -3159,6 +3195,7 @@ IN,Thiruvalluvar University,http://www.tvuni.in/
 IN,Tilak Maharashtra Vidyapeeth,http://www.tmv.edu.in/
 IN,Tilka Manjhi Bhagalpur University,http://www.tmbu.org/
 IN,Tripura University,http://www.tripurauniv.in/
+IN,Tumkur University,http://www.tumkuruniversity.ac.in/
 IN,"University of Agricultural Sciences, Bangalore",http://uasbng.kar.nic.in/
 IN,"University of Agricultural Sciences, Dharwad",http://www.uasd.net/
 IN,University of Burdwan,http://www.burdwanuniversity.ac.in/
@@ -5017,6 +5054,7 @@ NG,Kwara State University ,http://www.kwasu.edu.ng/
 NG,Ladoke Akintola University of Technology,http://www.lautech.edu.ng/
 NG,Lagos State Polytechnic,http://www.laspotech.net/
 NG,Lagos State University,http://www.lasunigeria.org/
+NG,Landmark University,http://www.lmu.edu.ng/
 NG,Lead City University of Ibadan,http://www.lcu.edu.ng/
 NG,Madonna University,http://www.madonnauniversity.edu.ng/
 NG,Michael Okpara University of Agriculture,http://www.mouau.edu.ng/
@@ -6055,6 +6093,7 @@ RU,State University of Management,http://www.guu.ru/
 RU,Stavropol State Technical University,http://www.ncstu.ru/
 RU,Stavropol State University,http://www.stavsu.ru/
 RU,Sterlitamak State Pedagogical Institute,http://www.bashedu.ru/vuz/sgpi_e.htm
+RU,St. Petersburg Institute of Arts and Restoration,http://www.spbiir.ru/
 RU,St. Petersburg Institute of Sales Management and Economics,http://www.spbtei.ru/
 RU,St. Petersburg Repin State Academic Institute of Painting Sculpture and Achitecture,http://artacademy.spb.ru/
 RU,St. Petersburg State Academy for Engineering Economics (ENGECON),http://www.engec.ru/
@@ -6113,8 +6152,10 @@ RU,Ufa State Institute of Arts,http://www.bashedu.ru/vuz/ugii_e.htm
 RU,Ufa State Petroleum Technological University,http://www.rusoil.net/
 RU,Ukhta State Technical University,http://uii.sever.ru/
 RU,Ulyanovsk Higher School of Civil Aviation,http://www.uvauga.ru/
+RU,Ulyanovsk State Agricultural Academy,http://www.ugsha.ru/
+RU,Ulyanovsk State Pedagogical University,http://www.ulspu.ru/
 RU,Ulyanovsk State Technical University,http://www.ulstu.ru/
-RU,Ulyanovsk State University,http://sv.uven.ru/
+RU,Ulyanovsk State University,http://www.ulsu.ru/
 RU,Ural Academy of Public Administration,http://www.uapa.ru/
 RU,Ural Gorkij State University,http://www.usu.ru/
 RU,Ural State Academy of Architecture and Arts,http://www.usaaa.ru/
