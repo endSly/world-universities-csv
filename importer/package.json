@@ -3,14 +3,15 @@
   "version": "0.0.1",
   "author": "Endika Gutiérrez <me@endika.net>",
   "description": "univ.cc scrapper",
-  "dependencies" : {
-    "jsdom"   : "0.10.1",
-    "async"   : "*",
-    "csv"     : "0.3.x",
-    "country-data" : "*"
+  "dependencies": {
+    "async": "*",
+    "country-data": "*",
+    "csv-stringify": "^1.0.4",
+    "jsdom": "11.2.0",
+    "request": "^2.82.0"
   },
   "license": "MIT",
   "engines": {
-    "node": ">=0.6"
+    "node": ">=8.0"
   }
 }
