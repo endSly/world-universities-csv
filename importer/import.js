@@ -7,12 +7,14 @@ var jsdom = require("jsdom")
 
 const { JSDOM } = jsdom;
 
-var count = 0;
+let count;
 
-var lastPage;
+let lastPage;
 
 function readPage(body, write, cb) {
   const { document } = (new JSDOM(body)).window;
+
+  count = 0;
 
   const firstItem = document.querySelector('ol li a');
   if (firstItem) {
@@ -24,11 +26,9 @@ function readPage(body, write, cb) {
   }
 
   const allItems = document.querySelectorAll('ol li a');
-  let n = 0;
 
-  for (n = 0; n < allItems.length; n++) {
-    write(allItems[n].innerHTML, allItems[n].href);
-    n++;
+  for (count = 0; count < allItems.length; count++) {
+    write(allItems[count].innerHTML, allItems[count].href);
     count++;
   }
 
@@ -44,8 +44,8 @@ output.on('readable', function() {
 });
 
 function loadList(dom, country, cb) {
-  var total = 0;
-  var start = 1;
+  let total = 0;
+  let start = 1;
   process.stdout.write("["+country+"] ");
   async.doUntil(function(cb) {
     request("http://univ.cc/search.php?dom=" + dom + "&key=&start=" + start, function (error, response, body) {
@@ -66,10 +66,10 @@ function loadList(dom, country, cb) {
   });
 }
 
-var countriesCodes = Object.keys(countries);
+const countriesCodes = Object.keys(countries);
 
 async.eachSeries(countriesCodes, function(country, cb) {
-  if (country.length != 2)
+  if (country.length !== 2)
     return cb();
 
   var dom = country == "US" ? "edu" : country;
