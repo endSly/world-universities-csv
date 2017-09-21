@@ -29,7 +29,6 @@ function readPage(body, write, cb) {
 
   for (count = 0; count < allItems.length; count++) {
     write(allItems[count].innerHTML, allItems[count].href);
-    count++;
   }
 
   cb();
