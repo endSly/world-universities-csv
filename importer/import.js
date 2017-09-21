@@ -1,43 +1,57 @@
 var jsdom = require("jsdom")
   , async = require("async")
-  , csv = require("csv")
+  , fs = require('fs')
+  , request = require('request')
+  , stringify = require("csv-stringify")
   , countries  = require('country-data').countries;
 
-var count = 0;
+const { JSDOM } = jsdom;
 
-var lastPage;
+let count;
 
-function readPage(page, write, cb) {
-  jsdom.env(page, ["http://code.jquery.com/jquery.js"], function (err, window) {
-    count = 0;
-    var firstItem = window.$('ol li a')[0];
-    if (firstItem) {
-      var currentPage = firstItem.innerHTML;
-      if (currentPage == lastPage)
-        return cb();
+let lastPage;
 
-      lastPage = currentPage;
+function readPage(body, write, cb) {
+  const { document } = (new JSDOM(body)).window;
+
+  count = 0;
+
+  const firstItem = document.querySelector('ol li a');
+  if (firstItem) {
+    const currentPage = firstItem.innerHTML;
+    if (currentPage === lastPage) {
+      return cb();
     }
+    lastPage = currentPage;
+  }
 
-    window.$('ol li a').each(function (i, el) {
-      write(el.innerHTML, window.$(el).attr('href'));
-      ++count;
-    });
-    cb();
-  });
+  const allItems = document.querySelectorAll('ol li a');
+
+  for (count = 0; count < allItems.length; count++) {
+    write(allItems[count].textContent.trim(), allItems[count].href.trim());
+  }
+
+  cb();
 }
 
-var output = csv().to("world-universities.csv");
+const fileStream = fs.createWriteStream('world-universities.csv');
+const output = stringify();
+output.on('readable', function() {
+    while(row = output.read()){
+        fileStream.write(row);
+    }
+});
 
 function loadList(dom, country, cb) {
-  var total = 0;
-  var start = 1;
+  let total = 0;
+  let start = 1;
   process.stdout.write("["+country+"] ");
   async.doUntil(function(cb) {
-    var page = "http://univ.cc/search.php?dom=" + dom + "&key=&start=" + start;
-    readPage(page, function (name, url) {
-      output.write([country, name, url]);
-    }, cb);
+    request("http://univ.cc/search.php?dom=" + dom + "&key=&start=" + start, function (error, response, body) {
+        readPage(body, function (name, url) {
+            output.write([country, name, url]);
+        }, cb);
+    });
 
   }, function() {
     start += 50;
@@ -51,17 +65,27 @@ function loadList(dom, country, cb) {
   });
 }
 
-var countriesCodes = Object.keys(countries);
+const countriesCodes = Object.keys(countries);
+
+function cleanCountryCode(countryCode) {
+    switch (countryCode) {
+        default:
+          return countryCode;
+
+        case 'US':
+          return 'edu';
+
+        case 'GB':
+          return 'uk';
+    }
+}
 
 async.eachSeries(countriesCodes, function(country, cb) {
-  if (country.length != 2)
+  if (country.length !== 2)
     return cb();
 
-  var dom = country == "US" ? "edu" : country;
+  const dom = cleanCountryCode(country);
   loadList(dom.toLowerCase(), country, cb);
 }, function() {
   output.end();
 });
-
-
-
