@@ -67,11 +67,24 @@ function loadList(dom, country, cb) {
 
 const countriesCodes = Object.keys(countries);
 
+function cleanCountryCode(countryCode) {
+    switch (countryCode) {
+        default:
+          return countryCode;
+
+        case 'US':
+          return 'edu';
+
+        case 'GB':
+          return 'uk';
+    }
+}
+
 async.eachSeries(countriesCodes, function(country, cb) {
   if (country.length !== 2)
     return cb();
 
-  var dom = country == "US" ? "edu" : country;
+  const dom = cleanCountryCode(country);
   loadList(dom.toLowerCase(), country, cb);
 }, function() {
   output.end();
