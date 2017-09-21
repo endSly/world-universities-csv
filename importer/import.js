@@ -28,7 +28,7 @@ function readPage(body, write, cb) {
   const allItems = document.querySelectorAll('ol li a');
 
   for (count = 0; count < allItems.length; count++) {
-    write(allItems[count].innerHTML, allItems[count].href);
+    write(allItems[count].textContent, allItems[count].href);
   }
 
   cb();
